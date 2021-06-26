@@ -1,4 +1,4 @@
-# Machine_Operating_System
+# Machine Operating System
 
 <h1><b> Introduction </h1> </b>
 
@@ -31,6 +31,9 @@ Users interact with the application layer, after initial configuration of ROS dr
   e. IoT <br>
   <br>
   
+ <p align="center"><img src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/Machine%20Operating%20System%20Architecture.png" title="MOS Architecture"></p>
+
+
   
  <h1><b> Experiment and Interface</h1> </b> 
  
