@@ -1,0 +1,2 @@
+machines
+-DCATKIN_DEVEL_PREFIX=/home/dhruv/MOS_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dhruv/MOS_ws/install -G Unix Makefiles
