@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="machines" name="zaxis" type="zaxis.py" output="screen"/>
+    <node pkg="machines" name="xaxis" type="xaxis.py" output="screen"/>
+</launch>

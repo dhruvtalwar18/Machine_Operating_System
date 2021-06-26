@@ -1,0 +1,9 @@
+<launch>
+    <node name="stopper" pkg="machines" type="stopper.py" output="screen" />
+    <!-- <node name="gripper" pkg="machines" type="gripper.py" output="screen" /> -->
+    <node name="conveyor" pkg="machines" type="conveyor.py" output="screen" />
+    <node name="appsensormone" pkg="machines" type="sensorAppAreaMOne.py" output="screen" />
+    <node name="entrysensor" pkg="machines" type="sensorEntryMOne.py" output="screen" />
+    <node name="clamping" pkg="machines" type="clamping.py" output="screen"  />
+    <node name="locking" pkg="machines" type="locking.py" output="screen" />
+</launch>
