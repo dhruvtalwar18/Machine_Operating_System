@@ -51,7 +51,7 @@ Seven driver nodes were made, all using python, six used the OPC UA communicatio
 
 <p align="center"><img src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/DashBoard_created.PNG" title="QT based Dashboard"></p>
 
-<p align="center">Fig.2 Cartographer Map, and Google map IIT Delhi Campus, Himadi Circle </p>
+<p align="center">QT based Dashboard </p>
 
  <h1><b> Results </h1> </b> 
  
