@@ -31,7 +31,8 @@ Users interact with the application layer, after initial configuration of ROS dr
   e. IoT <br>
   <br>
   
- <p align="center"><img src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/Machine%20Operating%20System%20Architecture.png" title="MOS Architecture"></p>
+ <p align="center"><img src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/Machine%20Operating%20System%20Architecture.png" title="MOS Architecture"></p> 
+ <p align="center"> Fig.1 MOS Architecture </p><br>
 
 
   
@@ -46,12 +47,12 @@ Seven driver nodes were made, all using python, six used the OPC UA communicatio
 
 <p><img align ="right" src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/MAM%20function%20block.png" title="PLC functional block"><br><br><br><br><br><br><br> <img align ="left" src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/ROS%20%20Node%20Graph.png" title="RQT graph" width = "550"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="center">Fig.2 The RQT graph showing ROS nodes and its use in the PLC functional block respectively </p><br>
+<p align="center"> Fig.2 The RQT graph showing ROS nodes and its use in the PLC functional block respectively </p><br>
 <br><br>
 
 <p align="center"><img src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/DashBoard_created.PNG" title="QT based Dashboard"></p>
 
-<p align="center">QT based Dashboard </p>
+<p align="center">Fig. 3 QT based Dashboard </p>
 
  <h1><b> Results </h1> </b> 
  
