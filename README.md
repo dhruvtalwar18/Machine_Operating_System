@@ -45,7 +45,7 @@ Users interact with the application layer, after initial configuration of ROS dr
 Seven driver nodes were made, all using python, six used the OPC UA communication protocol and one used Ethernet/IP. The nodes publish device status on a status topic and take commands from a control topic. There are 3 types of messages, <b>pneumatic.msg, MAMControl.msg, MAMStatus.msg.</b> MAM is the functional block name for motion of drives in Rockwell. A work sequence node is made which uses required message topics to get pallet position and command required devices.
 
 
-<p><img align ="right" src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/MAM%20function%20block.png" title="PLC functional block"><br><br><br><br><br><br><br> <img align ="left" src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/ROS%20%20Node%20Graph.png" title="RQT graph" width = "550"></p>
+<p><img align ="right" src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/MAM%20function%20block.png" title="PLC functional block"><br><br><br><br><br><br><br> <img align ="left" src="https://github.com/dhruvtalwar18/Machine_Operating_System/blob/main/images/ROS%20%20Node%20Graph.png" title="RQT graph" width = "500"></p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="center"> Fig.2 The RQT graph showing ROS nodes and its use in the PLC functional block respectively </p><br>
 <br><br>
